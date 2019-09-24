@@ -7,6 +7,8 @@
       <excludeFolder url="file://$MODULE_DIR$/flutter_navigation/build" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_navigation/flutter_navigation/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_navigation/flutter_navigation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/provider-architecture/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/provider-architecture/build" />
       <excludeFolder url="file://$MODULE_DIR$/startup_namer/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/startup_namer/build" />
     </content>
